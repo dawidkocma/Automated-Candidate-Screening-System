@@ -3,6 +3,7 @@
 NexusPrep is a high-fidelity automation engine built with **n8n** and **GPT-4o** designed to bridge the gap between technical CVs and specific Job Descriptions. Unlike generic evaluators, NexusPrep acts as a "Skeptical Hiring Manager," providing deterministic scoring, culture-fit inference, and a prioritized improvement roadmap.
 
 ---
+https://github.com/dawidkocma/Automated-Candidate-Screening-System/blob/main/presentation.mov?raw=true
 
 ## 🚀 Key Features
 
